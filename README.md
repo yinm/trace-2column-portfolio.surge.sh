@@ -1,1 +1,1 @@
-# trace-2column-portfolio.surge.sh
+Trace [Praagya Joshi](http://2column-portfolio.surge.sh/) for study.
