@@ -19,7 +19,7 @@ const IndexPage = () => (
         and a leading SaaS provider.
       </h3>
 
-      {/*<ExperienceSection/>*/}
+      <ExperienceSection/>
       {/*<ProjectsSection/>*/}
     </div>
 
