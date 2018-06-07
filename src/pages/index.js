@@ -20,15 +20,15 @@ const IndexPage = () => (
       </h3>
 
       <ExperienceSection/>
-      {/*<ProjectsSection/>*/}
+      <ProjectsSection/>
     </div>
 
     <div className="aside">
       <div className="top">
-        {/*<About/>*/}
+        <About/>
       </div>
       <div className="bottom">
-        {/*<Links/>*/}
+        <Links/>
       </div>
     </div>
   </div>
