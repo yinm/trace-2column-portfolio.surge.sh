@@ -20,7 +20,7 @@ const IndexPage = () => (
       </h3>
 
       <ExperienceSection/>
-      {/*<ProjectsSection/>*/}
+      <ProjectsSection/>
     </div>
 
     <div className="aside">
