@@ -1,0 +1,41 @@
+@import '../../../assets/scss/main.scss';
+
+.links {
+  color: $gray-color;
+  border-top: 1px solid $border-color-dark;
+  padding-top: 20px;
+
+  ul.icons-list {
+    padding: 0 0 10px;
+    margin: 0;
+    list-style: none;
+
+    li.icon {
+      display: inline-block;
+      padding-right: 18px;
+
+      &:last-of-type {
+        padding-right: 0;
+      }
+    }
+  }
+
+  i.fa {
+    font-size: 2.2rem;
+  }
+
+  a {
+    color: $gray-color;
+    transition: all .6s ease;
+
+    &:hover {
+      color: white;
+    }
+  }
+
+  .small {
+    font-size: 1.3rem;
+    transition: all .6s ease;
+    color: $gray-color;
+  }
+}
