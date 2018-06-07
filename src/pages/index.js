@@ -25,7 +25,7 @@ const IndexPage = () => (
 
     <div className="aside">
       <div className="top">
-        {/*<About/>*/}
+        <About/>
       </div>
       <div className="bottom">
         {/*<Links/>*/}
